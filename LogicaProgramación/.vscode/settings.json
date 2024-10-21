@@ -1,0 +1,31 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#722752",
+        "activityBar.background": "#722752",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#000000",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#722752",
+        "statusBar.background": "#4c1a37",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#722752",
+        "statusBarItem.remoteBackground": "#4c1a37",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#4c1a37",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#4c1a3799",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#4c1a37",
+    "cSpell.words": [
+        "Betis",
+        "decrementado",
+        "mensajito",
+        "numerito",
+        "Pablito",
+        "peli",
+        "Spiderman"
+    ]
+}
